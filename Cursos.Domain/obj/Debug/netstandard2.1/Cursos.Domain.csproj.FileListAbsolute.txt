@@ -1,0 +1,10 @@
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\bin\Debug\netstandard2.1\Cursos.Domain.deps.json
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\bin\Debug\netstandard2.1\Cursos.Domain.dll
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\bin\Debug\netstandard2.1\Cursos.Domain.pdb
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.csproj.AssemblyReference.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.AssemblyInfoInputs.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.AssemblyInfo.cs
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.dll
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos.Domain\obj\Debug\netstandard2.1\Cursos.Domain.pdb

@@ -1,0 +1,13 @@
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\bin\Debug\netstandard2.1\Curso.Infraestructure.deps.json
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\bin\Debug\netstandard2.1\Curso.Infraestructure.dll
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\bin\Debug\netstandard2.1\Curso.Infraestructure.pdb
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\bin\Debug\netstandard2.1\Cursos.Domain.dll
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\bin\Debug\netstandard2.1\Cursos.Domain.pdb
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.AssemblyInfo.cs
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.csproj.CopyComplete
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.dll
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Curso.Infraestructure\obj\Debug\netstandard2.1\Curso.Infraestructure.pdb

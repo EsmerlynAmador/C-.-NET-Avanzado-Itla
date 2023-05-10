@@ -1,0 +1,8 @@
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.csproj.AssemblyReference.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.AssemblyInfoInputs.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.AssemblyInfo.cs
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.csproj.CoreCompileInputs.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.RazorAssemblyInfo.cache
+C:\Users\Esmerlyn\Documents\Visual Studio 2022\Cursos\Cursos\Cursos\obj\Debug\net6.0\Cursos.Web.RazorAssemblyInfo.cs
